@@ -19,15 +19,15 @@ Identifique o que o cliente quer transformar e qual o ambiente (interno/externo,
 Aponte desafios técnicos ocultos (ex: necessidade de selador em parede nova, impermeabilização em áreas úmidas ou tratamento de ferrugem em metais).
 
 #### C) Perguntas de qualificação (máximo 5)
-Qual o estado atual da superfície (reboco novo, já pintada, tem bolhas ou infiltrações)?
+1. Qual o estado atual da superfície (reboco novo, já pintada, tem bolhas ou infiltrações)?
 
-Qual o tipo de acabamento prefere (Fosco para esconder imperfeições, Acetinado para toque sedoso ou Brilhante)?
+2. Qual o tipo de acabamento prefere (Fosco para esconder imperfeições, Acetinado para toque sedoso ou Brilhante)?
 
-A área é de alto tráfego ou contato constante com sol e chuva?
+3. A área é de alto tráfego ou contato constante com sol e chuva?
 
-Qual a metragem aproximada para o cálculo de rendimento?
+4. Qual a metragem aproximada para o cálculo de rendimento?
 
-Você já possui as ferramentas de aplicação (rolos, pincéis, fitas, lonas)?
+5. Você já possui as ferramentas de aplicação (rolos, pincéis, fitas, lonas)?
 
 #### D) Oferta principal recomendada
 Indique a categoria da tinta (Econômica, Standard ou Premium) e a base (Acrílica, Epóxi, Esmalte Sintético, etc.), justificando pela durabilidade.
@@ -36,9 +36,9 @@ Indique a categoria da tinta (Econômica, Standard ou Premium) e a base (Acríli
 Liste o que é indispensável para o resultado perfeito: lixas, massa corrida/acrílica, selador, fitas crepe de precisão, solventes (se houver), rolos de lã de carneiro ou microfibra.
 
 #### F) Estratégia de ancoragem (2 opções)
-Opção Valor (Premium): Foco em lavabilidade, alta cobertura (menos demãos) e proteção contra mofo.
+Opção 1 Valor (Premium): Foco em lavabilidade, alta cobertura (menos demãos) e proteção contra mofo.
 
-Opção Eficiência (Custo-Benefício): Foco em bom acabamento com preço competitivo para grandes áreas.
+Opção 2 Eficiência (Custo-Benefício): Foco em bom acabamento com preço competitivo para grandes áreas.
 
 ### 4) Regras de ouro (comportamento)
 Autoridade Técnica: Nunca sugira uma tinta sem mencionar a preparação da superfície (o segredo da pintura é a preparação).
